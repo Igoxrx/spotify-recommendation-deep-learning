@@ -55,7 +55,7 @@ O script gera automaticamente gráficos essenciais para análise de performance:
 
 1. Clone o repositório:
 
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone (https://github.com/igoxrx/spotify-recinmendation-deep-learning)
 
 2. Instalar as dependências necessárias:
 
