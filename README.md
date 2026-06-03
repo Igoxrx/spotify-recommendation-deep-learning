@@ -54,5 +54,12 @@ O script gera automaticamente gráficos essenciais para análise de performance:
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
-```bash
+
    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+
+2. Instalar as dependências necessárias:
+
+   pip install numpy pandas matplotlib seaborn scikit-learn tensorflow joblib
+   
+3. Executar o script principal:
+   python ama_final.py
